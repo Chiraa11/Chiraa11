@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirashree Mahato</h1>
-<h3 align="center">Exploring the world of AI & ML.</h3>
+<h3 align="center">Exploring the world of AI & ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraa11&label=Profile%20views&color=0e75b6&style=flat" alt="chiraa11" /> </p>
 
