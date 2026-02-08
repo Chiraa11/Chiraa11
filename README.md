@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chirashree Mahato</h1>
 <h3 align="center">Exploring the world of AI & ML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraa11&label=Profile%20views&color=0e75b6&style=flat" alt="chiraa11" /> </p>
-
 - 🌱 I’m currently learning **AIML concepts and mastering Data Structure and Algorithms.**
 
 - 📫 How to reach me **chirashreemahato11@gmail.com**
