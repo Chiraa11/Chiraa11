@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chirashree Mahato</h1>
 <h3 align="center">Exploring the world of AI & ML</h3>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/chiraa11?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/chiraa11?style=for-the-badge" />
-</p>
+
 
 - 🌱 I’m currently learning **AIML concepts and mastering Data Structure and Algorithms.**
 
