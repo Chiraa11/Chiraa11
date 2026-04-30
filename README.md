@@ -32,6 +32,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiraa11&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-<img src="https://github-readme-stats.vercel.app/api?username=Chiraa11&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiraa11&layout=compact&theme=vision-friendly-light" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=Chiraa11&show_icons=true&theme=vision-friendly-light" alt="GitHub Stats" />
 </p>
